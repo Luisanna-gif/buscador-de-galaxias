@@ -1,0 +1,9 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+body{
+  background-color: rgb(9, 9, 105);
+}
+h1, p {
+  color: rgb(47, 231, 231);
+}
